@@ -3,9 +3,6 @@ PASSWORD GENERATOR
 This project generates random passwords to improve security and reduce predictable password usage.
 
 * Language Used - Java
-
-* Features
-  
 - Generates random passwords
 - Uses letters, numbers, and symbols
 - Simple user interaction
